@@ -16,7 +16,7 @@ Requires the [Alfred Powerpack][]!
 
 ## Command Line (Applescript)
 
-Comes with Google Chrome (but should work on safari, have not tested)
+Comes with Google Chrome (but should work on safari with modification to the applescript.)
 .
 **Usage:** `./chrome.applescript ACTION`
 
