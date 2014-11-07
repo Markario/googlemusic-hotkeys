@@ -1,6 +1,6 @@
 # NOTICE
 
-A slightly modified version of [stevenla/googlemusic-hotkeys](www.stevenla.com)
+A slightly modified version of stevenla/googlemusic-hotkeys.
 
 # Google Music Hotkeys
 
