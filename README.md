@@ -1,13 +1,10 @@
 # NOTICE
 
-A slightly modified version of stevenla/googlemusic-hotkeys
+A slightly modified version of [stevenla/googlemusic-hotkeys](www.stevenla.com)
 
 # Google Music Hotkeys
 
 Alfred 2.0 workflows and Applescripts to control Google Play Music
-
-By [Steven La](www.stevenla.com)
-
 
 ## Alfred 2.0
 
