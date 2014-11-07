@@ -1,6 +1,6 @@
 # NOTICE
 
-**I'm no longer maintaining this version.** Please check out the native OS X app https://github.com/stevenla/GooglePlayMusicRemote
+A slightly modified version of stevenla/googlemusic-hotkeys
 
 # Google Music Hotkeys
 
@@ -13,21 +13,19 @@ By [Steven La](www.stevenla.com)
 
 I've set the default hotkeys to F7, F8, and F9 for previous, play/pause, and
 next track like on my Macbook. Use [KeyRemap4MacBook][] to remap the media
-keys to the F-keys.
+keys to the F-keys. Open Google Music with `gmusic` and search with `gmusic query`.
 
 Requires the [Alfred Powerpack][]!
 
 ## Command Line (Applescript)
 
-Comes with Google Chrome and Safari variants. Both have the same syntax, just
-different files.
-
-**Usage:** `./chrome.applescript ACTION` or `./safari.applescript ACTION`
+Comes with Google Chrome (but should work on safari, have not tested)
+.
+**Usage:** `./chrome.applescript ACTION`
 
 **Actions:** `playPause`, `prevSong`, `nextSong`, `toggleShuffle`,
-`toggleRepeat`. A full list of actions is availible from [this gist][]
-
+`toggleRepeat`.
 
   [KeyRemap4MacBook]: http://pqrs.org/macosx/keyremap4macbook/
   [Alfred Powerpack]: http://www.alfredapp.com/powerpack/
-  [this gist]: http://gist.github.com/jgibbon/2653465
+  
