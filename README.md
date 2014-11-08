@@ -10,7 +10,7 @@ Alfred 2.0 workflows and Applescripts to control Google Play Music
 
 I've set the default hotkeys to F7, F8, and F9 for previous, play/pause, and
 next track like on my Macbook. Use [KeyRemap4MacBook][] to remap the media
-keys to the F-keys. Open Google Music with `gmusic` and search with `gmusic query`.
+keys to the F-keys. Or simply change them in `System Preferences/Keyboard`.  Open Google Music with `gmusic` and search with `gmusic query`.
 
 Requires the [Alfred Powerpack][]!
 
