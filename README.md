@@ -1,6 +1,6 @@
 # NOTICE
 
-A slightly modified version of stevenla/googlemusic-hotkeys.
+An updated version of c-benko/googlemusic-hotkeys with the following original readme.
 
 # Google Music Hotkeys
 
